@@ -1,0 +1,20 @@
+﻿Build started 03.03.2024 23:58:39.
+     1>Project "C:\Users\miss-\Documents\Visual Studio 2010\Projects\EcoLab1\AssemblyFiles\Windows\VisualStudio_10\EcoLab1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "EcoLab1\StaticDebug\EcoLab1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\HeaderFiles /I..\..\..\SharedFiles /I"C:\Users\miss-\Desktop\с\Eco.Framework_20230409\Eco.Framework\Eco.Core1\SharedFiles" /I"C:\Users\miss-\Desktop\с\Eco.Framework_20230409\Eco.Framework\Eco.InterfaceBus1\SharedFiles" /I"C:\Users\miss-\Desktop\с\Eco.Framework_20230409\Eco.Framework\Eco.System1\SharedFiles" /I"C:\Users\miss-\Desktop\с\Eco.Framework_20230409\Eco.Framework\Eco.MemoryManager1\SharedFiles" /I"C:\Users\miss-\Desktop\с\Eco.Framework_20230409\Eco.Framework\Eco.FileSystemManagement1\SharedFiles" /I"C:\Users\miss-\Desktop\с\Eco.Framework_20230409\Eco.Framework\Eco.List1\SharedFiles" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D ECO_WINDOWS /D ECO_WIN32 /D UGUID_UTILITY /D ECO_LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"EcoLab1\StaticDebug\\" /Fd"EcoLab1\StaticDebug\vc100.pdb" /Gz /TC /analyze- /errorReport:prompt ..\..\..\SourceFiles\CEcoLab1.c
+         CEcoLab1.c
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(1151,5): warning MSB8012: TargetPath(C:\Users\miss-\Documents\Visual Studio 2010\Projects\EcoLab1\AssemblyFiles\Windows\VisualStudio_10\EcoLab1\StaticDebug\A4C83EFF7E434C20B04DD452F0B7954C.lib) does not match the Library's OutputFile property value (C:\Users\miss-\Documents\Visual Studio 2010\Projects\EcoLab1\BuildFiles\Windows\x86\StaticDebug\A4C83EFF7E434C20B04DD452F0B7954C.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+       Lib:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"..\..\..\BuildFiles\Windows\x86\StaticDebug\A4C83EFF7E434C20B04DD452F0B7954C.lib" /NOLOGO EcoLab1\StaticDebug\CEcoLab1.obj
+         EcoLab1\StaticDebug\CEcoLab1Factory.obj
+         EcoLab1.vcxproj -> C:\Users\miss-\Documents\Visual Studio 2010\Projects\EcoLab1\AssemblyFiles\Windows\VisualStudio_10\EcoLab1\StaticDebug\A4C83EFF7E434C20B04DD452F0B7954C.lib
+       FinalizeBuildStatus:
+         Deleting file "EcoLab1\StaticDebug\EcoLab1.unsuccessfulbuild".
+         Touching "EcoLab1\StaticDebug\EcoLab1.lastbuildstate".
+     1>Done Building Project "C:\Users\miss-\Documents\Visual Studio 2010\Projects\EcoLab1\AssemblyFiles\Windows\VisualStudio_10\EcoLab1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.57

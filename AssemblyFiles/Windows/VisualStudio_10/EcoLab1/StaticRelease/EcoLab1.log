@@ -1,0 +1,19 @@
+﻿Build started 05.03.2024 22:42:00.
+     1>Project "C:\Users\miss-\Documents\Visual Studio 2010\Projects\EcoLab1\AssemblyFiles\Windows\VisualStudio_10\EcoLab1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "EcoLab1\StaticRelease\EcoLab1.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(1151,5): warning MSB8012: TargetPath(C:\Users\miss-\Documents\Visual Studio 2010\Projects\EcoLab1\AssemblyFiles\Windows\VisualStudio_10\EcoLab1\StaticRelease\A4C83EFF7E434C20B04DD452F0B7954C.lib) does not match the Library's OutputFile property value (C:\Users\miss-\Documents\Visual Studio 2010\Projects\EcoLab1\BuildFiles\Windows\x86\StaticRelease\A4C83EFF7E434C20B04DD452F0B7954C.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+       Lib:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"..\..\..\BuildFiles\Windows\x86\StaticRelease\A4C83EFF7E434C20B04DD452F0B7954C.lib" /NOLOGO /LTCG EcoLab1\StaticRelease\CEcoLab1.obj
+         EcoLab1\StaticRelease\CEcoLab1Factory.obj
+         EcoLab1.vcxproj -> C:\Users\miss-\Documents\Visual Studio 2010\Projects\EcoLab1\AssemblyFiles\Windows\VisualStudio_10\EcoLab1\StaticRelease\A4C83EFF7E434C20B04DD452F0B7954C.lib
+       FinalizeBuildStatus:
+         Deleting file "EcoLab1\StaticRelease\EcoLab1.unsuccessfulbuild".
+         Touching "EcoLab1\StaticRelease\EcoLab1.lastbuildstate".
+     1>Done Building Project "C:\Users\miss-\Documents\Visual Studio 2010\Projects\EcoLab1\AssemblyFiles\Windows\VisualStudio_10\EcoLab1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.32
